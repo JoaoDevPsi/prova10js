@@ -3,9 +3,9 @@ body {
     margin: 20px;
     background-color: #f4f4f4;
     display: flex;
-    justify-content: center; /* Centraliza horizontalmente */
-    align-items: center; /* Centraliza verticalmente */
-    min-height: 100vh; /* Garante que o body ocupa a altura total da viewport */
+    justify-content: center; 
+    align-items: center;
+    min-height: 100vh; 
 }
 
 .container {
@@ -13,7 +13,7 @@ body {
     padding: 20px;
     border-radius: 8px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-    width: 400px; /* Largura fixa para melhor visualização */
+    width: 400px;
 }
 
 .input-area {
